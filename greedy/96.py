@@ -9,7 +9,7 @@ for i in range(n) :
 
   min_Num = min(data)   # 행의 가장 작은 값
 
-  result = max(result,min_Num) #행의 가장 작은 값들 중 제일 큰 값
+  result = max(result,min_Num)  #행의 가장 작은 값들 중 제일 큰 값
 
 
   
