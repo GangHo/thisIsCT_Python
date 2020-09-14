@@ -8,10 +8,10 @@ num1= data[0]
 num2 = data[1]
 
 
-count = 0 #연속 더한 횟수
-result = 0 
+count = 0   # 연속 더한 횟수
+result = 0  # 결과값
 for i in range(m) :
-  if count == k :
+  if count == k :     # 연속 더한 횟수 체크
     result += num2
     count = 0
   else :
