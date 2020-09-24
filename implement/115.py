@@ -47,9 +47,3 @@ for step in steps :
 print(count)
 
 ''''
-=======
-row = int(inpt_data[1])
-
-
-  
->>>>>>> e8dfddb5744df3a53658105cd98e6c97f38221a0
