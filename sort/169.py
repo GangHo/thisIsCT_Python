@@ -1,4 +1,4 @@
-#파이썬용 퀵 정렬 소스코드
+#파이썬 장점 퀵 정렬 소스코드
 #시간 면에서 조금 비효율적
 
 def quick_sort(array) :
@@ -18,4 +18,5 @@ def quick_sort(array) :
 
 
 array = [5,7,9,0,3,1,6,2,4,8]
+
 print(quick_sort(array))
